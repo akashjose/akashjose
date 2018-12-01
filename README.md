@@ -1,2 +1,1 @@
-# My Personal Website
-[Demo](https://akashjose.github.io/)
+# [My Personal Website](https://akashjose.github.io/)
