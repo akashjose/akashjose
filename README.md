@@ -1,2 +1,2 @@
-# akashjose.github.io
+akashjose.github.io
 My Personal Website
